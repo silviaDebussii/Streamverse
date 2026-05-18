@@ -1,18 +1,49 @@
-# React + Vite
+# 🎬 StreamVerse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+StreamVerse é uma aplicação front-end desenvolvida em React com Vite, inspirada em plataformas modernas de streaming de séries e filmes.
 
-Currently, two official plugins are available:
+O projeto foi criado com foco em componentização, responsividade, organização visual e uso de Design System moderno utilizando shadcn/ui e Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- Interface moderna inspirada em plataformas de streaming
+- Banner principal com destaque visual
+- Cards dinâmicos de séries
+- Responsividade para diferentes tamanhos de tela
+- Componentes reutilizáveis em React
+- Ícones com Lucide React
+- Estilização moderna com Tailwind CSS
+- Uso de props para renderização dinâmica
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Lucide React
+
+---
+
+## 📁 Estrutura do Projeto
+
+```txt
+src
+ ├── assets
+ ├── components
+ │    ├── Header.jsx
+ │    ├── Hero.jsx
+ │    ├── SeriesCard.jsx
+ │    ├── Features.jsx
+ │    └── Footer.jsx
+ │
+ ├── data
+ │    └── series.js
+ │
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
