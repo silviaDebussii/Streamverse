@@ -1,6 +1,6 @@
 # 🎬 StreamVerse
 
-StreamVerse é uma aplicação front-end desenvolvida em React com Vite pelos alunos: Silvia Debussi e João Victor Henriques Machado , inspirada em plataformas modernas de streaming de séries e filmes.
+StreamVerse é uma aplicação front-end desenvolvida em React com Vite pelos alunos: Silvia Debussi e Maria Eduarda Cabral , inspirada em plataformas modernas de streaming de séries e filmes.
 
 O projeto foi criado com foco em componentização, responsividade, organização visual e uso de Design System moderno utilizando shadcn/ui e Tailwind CSS.
 
