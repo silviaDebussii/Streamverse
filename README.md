@@ -47,3 +47,21 @@ src
  ├── App.jsx
  ├── main.jsx
  └── index.css
+
+🚀 Como Executar
+
+Clone o repositório:
+
+git clone LINK_DO_REPOSITORIO
+
+Entre na pasta do projeto:
+
+cd streamverse
+
+Instale as dependências:
+
+npm install
+
+Execute o projeto:
+
+npm run dev
